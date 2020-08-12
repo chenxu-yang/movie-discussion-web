@@ -35,24 +35,17 @@ body{
   animation: imageAnimation 50s linear infinite; 
 }
 .slideshow li:nth-child(1) { 
-  background-image: url(https://img.buzzfeed.com/buzzfeed-static/static/2015-08/3/9/enhanced/webdr03/original-19759-1438607089-3.png?downsize=800:*&output-format=auto&output-quality=auto) 
+  background-image: url(https://freeclassicimages.com/images/1968-shining-1980-movie-poster.jpg) 
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(https://img.buzzfeed.com/buzzfeed-static/static/2015-08/3/7/enhanced/webdr06/original-21179-1438602878-3.jpg?downsize=800:*&output-format=auto&output-quality=auto);
+  background-image: url(https://freeclassicimages.com/images/3-Bad-Men-1926-1-movie-poster.jpg);
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(https://img.buzzfeed.com/buzzfeed-static/static/2015-08/3/8/enhanced/webdr10/original-31974-1438603387-25.jpg?downsize=800:*&output-format=auto&output-quality=auto);
+  background-image: url(https://freeclassicimages.com/images/20th-century-1934v2-movie-poster.jpg);
   animation-delay: 20s; 
 }
-.slideshow li:nth-child(4) { 
-  background-image: url(https://img.buzzfeed.com/buzzfeed-static/static/2015-08/3/7/enhanced/webdr14/original-29898-1438603016-3.jpg?downsize=800:*&output-format=auto&output-quality=auto);
-  animation-delay: 30s; 
-}
-.slideshow li:nth-child(5) { 
-  background-image: url(https://img.buzzfeed.com/buzzfeed-static/static/2015-08/3/7/enhanced/webdr02/original-12363-1438602866-22.jpg?downsize=800:*&output-format=auto&output-quality=auto);
-  animation-delay: 40s; 
-}
+
 @keyframes imageAnimation { 
   0% { 
     opacity: 0; 
